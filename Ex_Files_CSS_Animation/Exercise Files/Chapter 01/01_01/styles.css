@@ -10,7 +10,7 @@ body {
 }
 
 .blue_robot {
-	
+	transform: translate(100px,200px)
 }
 
 

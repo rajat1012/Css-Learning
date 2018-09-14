@@ -10,6 +10,7 @@ body {
 img {
 	display:block;
 	margin: 0 auto;
+	transform:rotateY(72deg)
 }
 
 
